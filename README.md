@@ -29,7 +29,7 @@ se estiverem em linhas consecutivas, vão continuar a sequência
 
 ## Itálico
 
-Podem ser utilisadas 2 formas sempre no começo e no final da palavra ou frase.
+Podem ser utilizadas 2 formas sempre no começo e no final da palavra ou frase.
 
 1.( _ ) no começo e fim da frase
 
