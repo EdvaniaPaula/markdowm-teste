@@ -17,12 +17,29 @@ se estiverem em linhas consecutivas, vão continuar a sequência
  * meus cursos desejados 
  1. ciência da computação
  1. análise e desenvolvimento de sistemas
- 1. sistemas da informação
+ 1. engenharia da computação
 
 ## marcadores
- só é preciso colocar um (*) antes de cada palavra ou frase desejada para ficar marcada.
+ só é preciso colocar um ( * ) antes de cada palavra ou frase desejada para ficar marcada.
  
  ex:(* love)
  
  resultado:
  * love
+
+## Itálico
+
+Podem ser utilisadas 2 formas sempre no começo e no final da palavra ou frase.
+
+1.( _ ) no começo e fim da frase
+
+1.( * ) no começo e fim da frase
+
+## Negrito
+
+ Para usar o negrito, basta colocar asteriscos duplos ou underlines duplos para
+delimitar o termo. 
+
+1.( __ ) no começo e fim da frase
+
+1.( ** ) no começo e fim da frase
