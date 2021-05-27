@@ -1,5 +1,5 @@
 # markdowm-teste
-como usar o markdowm
+como usar o markdowm:
 ## lista numerada
 Para criar uma lista numerada, comece a linha com um número qualquer, seguido de
 um ponto. O primeiro número da lista vai indicar onde ela começa, os itens seguintes,
