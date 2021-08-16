@@ -1,6 +1,7 @@
 # markdowm-teste
 como usar o markdowm:
 ## lista numerada
+
 Para criar uma lista numerada, comece a linha com um número qualquer, seguido de
 um ponto. O primeiro número da lista vai indicar onde ela começa, os itens seguintes,
 se estiverem em linhas consecutivas, vão continuar a sequência
@@ -20,6 +21,7 @@ se estiverem em linhas consecutivas, vão continuar a sequência
  1. engenharia da computação
 
 ## marcadores
+
  só é preciso colocar um ( * ) antes de cada palavra ou frase desejada para ficar marcada.
  
  ex:(* love)
@@ -43,3 +45,28 @@ delimitar o termo.
 1.( __ ) no começo e fim da frase
 
 1.( ** ) no começo e fim da frase
+
+
+## Riscado (strike) 
+Para riscar um texto, coloque-o entre dois símbolos de til. 
+
+Ex: 
+( ~~ Curso em video ~~ )
+
+Resultado: CursoemVideo
+
+Dá pra misturar? 
+
+É possível também juntar as formatações de forma hierárquica, como por exemplo: 
+
+Ex: 
+( _** CursoemVideo **_)
+
+Resultado: _**CursoemVideo**_
+
+**IMPORTANTE: Lembre-se de não colocar espaços entre os símbolos 
+e os termos que eles vão formatar.**
+
+
+**IMPORTANTE: Se você inserir três ou mais espaços antes do 
+marcador, ele será colocado em outro nível**
